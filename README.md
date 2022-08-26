@@ -1,2 +1,2 @@
 # LYP::LastYearProject
-Object Detection using Generity Adversial Network
+Object Detection using Generative Adversial Network
